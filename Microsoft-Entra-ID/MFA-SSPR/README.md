@@ -38,3 +38,25 @@ Microsoft Entra ID
         +--- Audit Logs
                  |
                  +--- SSPR Activity Monitoring
+
+## Evidence
+
+### SSPR Enabled
+
+![SSPR Enabled](screenshots/SSPR-Security-Group)
+
+### SSPR Group Membership
+
+![SSPR Group Membership](screenshots/SSPR-Security-Group-02)
+
+### Microsoft Authenticator Registration
+
+![Authenticator Registered](screenshots/SSPR-Security-Group-03)
+
+### Audit Logs and Usage & Insights
+
+![Audits Logs and Usage](screenshots/SSPR-Security-Group-04)
+![Audits Logs and Usage](screenshots/SSPR-Security-Group-05)
+
+
+
