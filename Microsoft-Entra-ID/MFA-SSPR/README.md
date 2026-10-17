@@ -43,20 +43,20 @@ Microsoft Entra ID
 
 ### SSPR Enabled
 
-![SSPR Enabled](screenshots/SSPR-Security-Group)
+![SSPR Enabled](screenshots/SSPR-Security-Group.png)
 
 ### SSPR Group Membership
 
-![SSPR Group Membership](screenshots/SSPR-Security-Group-02)
+![SSPR Group Membership](screenshots/SSPR-Security-Group-02.png)
 
 ### Microsoft Authenticator Registration
 
-![Authenticator Registered](screenshots/SSPR-Security-Group-03)
+![Authenticator Registered](screenshots/SSPR-Security-Group-03.png)
 
 ### Audit Logs and Usage & Insights
 
-![Audits Logs and Usage](screenshots/SSPR-Security-Group-04)
-![Audits Logs and Usage](screenshots/SSPR-Security-Group-05)
+![Audits Logs and Usage](screenshots/SSPR-Security-Group-04.png)
+![Audits Logs and Usage](screenshots/SSPR-Security-Group-05.png)
 
 
 
