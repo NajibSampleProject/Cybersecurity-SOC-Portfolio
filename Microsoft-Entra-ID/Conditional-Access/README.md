@@ -33,3 +33,15 @@ Resource = Microsoft Admin Portals
 THEN
 
 Block Access
+
+
+### Conditional Access
+
+Implemented and validated a Microsoft Entra Conditional Access policy
+restricting access to Microsoft administrative portals for a selected
+test identity.
+
+**Skills:** Conditional Access, IAM, Zero Trust, policy enforcement,
+resource targeting, access control.
+
+[View Conditional Access Project →](Conditional-Access/)
