@@ -39,7 +39,7 @@ Microsoft Entra ID
                  |
                  +--- SSPR Activity Monitoring
 
-## Evidence
+## Evidence (Also can be seen in the screenshots)
 
 ### SSPR Enabled
 
