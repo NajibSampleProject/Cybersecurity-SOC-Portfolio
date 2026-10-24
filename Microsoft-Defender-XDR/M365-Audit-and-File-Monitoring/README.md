@@ -81,3 +81,42 @@ File monitoring provides additional visibility into file-related activities with
 ### Evidence:
 
 ![File Monitoring Enabled](screenshots/04-file-monitoring-enabled.png)
+
+
+### Security Relevance:
+
+This lab helped me understand an important principle in cybersecurity:
+You cannot effectively investigate activity that you are not logging.
+
+Microsoft 365 audit logging provides visibility into user and administrator actions, while file monitoring helps security teams observe file-related activity.
+
+A simplified security workflow is:
+
+User Activity → Audit Logs → Monitoring → Investigation → Incident Response
+
+These capabilities can assist SOC and security teams with identifying unusual behaviour and investigating potential security incidents.
+
+### Skills Practised 
+Through this lab, I gained hands-on experience with:
+- Microsoft 365 Admin Center
+- Microsoft Defender
+- Microsoft 365 Audit
+- Microsoft Defender for Cloud Apps
+- Audit logging configuration
+- User and administrator activity monitoring
+- File activity monitoring
+- Security visibility
+- Cloud security administration
+- Security investigation readiness
+
+### Key Learning
+
+My main takeaway from this lab was the importance of enabling logging and monitoring before a security incident occurs.
+
+Audit logs can provide valuable evidence about:
+- Who performed an action
+- What action occurred
+- When the activity occurred
+- Which Microsoft 365 service was involved
+This information can help security analysts reconstruct activity during an investigation and determine whether behaviour is legitimate or potentially suspicious.
+
