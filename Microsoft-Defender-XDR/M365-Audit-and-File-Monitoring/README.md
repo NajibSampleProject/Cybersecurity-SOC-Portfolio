@@ -1,9 +1,8 @@
 ## Lab Evidence
 
 # Microsoft 365 Audit Logging & File Monitoring Lab
-Microsoft 365 Audit Logging & File Monitoring Lab
 
-Overview
+# Overview
 
 This hands-on lab focused on enabling Microsoft 365 audit logging and file monitoring to improve security visibility and support investigation of user, administrator, and file activity.
 
