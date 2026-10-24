@@ -1,42 +1,19 @@
-# Microsoft 365 Audit Logging & File Monitoring Lab
+## Lab Evidence
 
-## Overview
-This hands-on lab focused on enabling Microsoft 365 audit logging and file monitoring to improve security visibility across a Microsoft 365 tenant.
+### Microsoft 365 Audit Logging
 
-## What I Configured
-- Enabled Microsoft 365 audit logging
-- Enabled user and administrator activity recording
-- Configured file monitoring
-- Navigated Microsoft Defender security settings
-- Reviewed Microsoft Defender for Cloud Apps configuration
+The following screenshot demonstrates the Microsoft 365 audit configuration used during the lab.
 
-## Tools Used
-- Microsoft 365 Admin Center
-- Microsoft Defender
-- Microsoft Defender for Cloud Apps
-- Microsoft Purview Audit
+![Microsoft 365 Audit Logging](screenshots/01-audit-log-enabled.png)
 
-## Security Relevance
-This configuration supports:
+### Microsoft Defender Audit
 
-- User and admin activity monitoring
-- Security investigations
-- File activity visibility
-- Threat detection
-- Incident response
-- Compliance and auditing
+![Microsoft Defender Audit](screenshots/02-microsoft-defender-audit.png)
 
-## Key Learning
-Security teams need reliable logging before they can investigate suspicious behaviour.
+### Cloud Apps File Monitoring
 
-The workflow can be viewed as:
+![Cloud Apps File Settings](screenshots/03-cloud-apps-file-settings.png)
 
-Activity → Audit Logs → Monitoring → Investigation → Incident Response
+### File Monitoring Enabled
 
-## Evidence
-Screenshots below demonstrate the lab configuration.
-
-> Sensitive tenant information and credentials have been removed from screenshots.
-
-## Lab Environment
-Completed in a temporary Microsoft tenant provided for hands-on security labs.
+![File Monitoring Enabled](screenshots/04-file-monitoring-enabled.png)
