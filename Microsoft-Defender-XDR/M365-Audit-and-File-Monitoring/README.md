@@ -8,11 +8,11 @@ The following screenshot demonstrates the Microsoft 365 audit configuration used
 
 ### Microsoft Defender Audit
 
-![Microsoft Defender Audit](screenshots/02-microsoft-defender-audit.png)
+![Microsoft Defender Audit](screenshots/01-Audit-Log-Enabled.png)
 
 ### Cloud Apps File Monitoring
 
-![Cloud Apps File Settings](screenshots/03-cloud-apps-file-settings.png)
+![Cloud Apps File Settings](screenshots/01-audit-log-enabled.PNG)
 
 ### File Monitoring Enabled
 
