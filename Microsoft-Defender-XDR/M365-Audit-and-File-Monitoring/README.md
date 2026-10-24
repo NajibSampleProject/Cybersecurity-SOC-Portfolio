@@ -12,7 +12,7 @@ The following screenshot demonstrates the Microsoft 365 audit configuration used
 
 ### Cloud Apps File Monitoring
 
-![Cloud Apps File Settings](screenshots/01-audit-log-enabled.PNG)
+![Cloud Apps File Settings](screenshots/03-cloud-apps-settings.png)
 
 ### File Monitoring Enabled
 
