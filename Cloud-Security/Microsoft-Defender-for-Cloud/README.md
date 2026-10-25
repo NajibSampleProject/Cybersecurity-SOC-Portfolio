@@ -38,7 +38,7 @@ Navigated to Microsoft Defender for Cloud and
 examined assessed resources, recommendations,
 security alerts, and security posture information.
 
-![Defender Overview](screenshots/01-defender-overview.png)
+![Defender Overview](screenshots/01-Defender-overview-page.png)
 
 ### 2. Virtual Machine Assessment
 
