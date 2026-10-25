@@ -27,7 +27,7 @@ I accessed Microsoft Purview through the Microsoft 365 Admin Center and explored
 The portal provides centralised access to data security, compliance, governance, and risk-management capabilities.
 
 ### Evidence 
-[View Project](./Service-Trust-Portal-and-Trust-Center/01-2-purview-home-page.png)
+[View Project](./Compliance-Manager-Lab/01-2-purview-home-page.png)
 ### 2. Compliance Manager Overview
 
 I opened Microsoft Compliance Manager and reviewed the organisation's compliance posture.
