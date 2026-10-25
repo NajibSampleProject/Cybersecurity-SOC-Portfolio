@@ -27,7 +27,7 @@ I accessed Microsoft Purview through the Microsoft 365 Admin Center and explored
 The portal provides centralised access to data security, compliance, governance, and risk-management capabilities.
 
 ### Evidence 
-
+[View Project](./Service-Trust-Portal-and-Trust-Center/01-2-purview-home-page.png)
 ### 2. Compliance Manager Overview
 
 I opened Microsoft Compliance Manager and reviewed the organisation's compliance posture.
@@ -41,7 +41,7 @@ I opened Microsoft Compliance Manager and reviewed the organisation's compliance
 - Compliance score breakdown
 
 ### Lab Evidence
-
+[View Project](./Service-Trust-Portal-and-Trust-Center/02-1-purview-compliance-posture.png)
 ### 3. Compliance Score
 
 I reviewed the compliance score to understand how Microsoft Compliance Manager measures progress against recommended compliance controls and improvement activities.
@@ -49,6 +49,7 @@ I reviewed the compliance score to understand how Microsoft Compliance Manager m
 The score provides organisations with a measurable way to monitor areas where their compliance posture can be strengthened.
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/02-purview-compliance-posture.png.png)
 
 ### 4. Improvement Actions
 
@@ -57,6 +58,7 @@ I explored the Improvement Actions section and reviewed recommended actions that
 I also opened an individual improvement action to review the available guidance and information.
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/07-improvement-action-details.png)
 
 ### 5. Data Protection Baseline for Microsoft 365
 
@@ -73,6 +75,7 @@ I reviewed information relating to:
 - Microsoft actions
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/10-2-data-protection-baseline.png)
 
 ### 6. Regulations
 
@@ -81,6 +84,9 @@ I explored the Regulations section to review compliance standards and regulation
 I opened a regulation to examine its associated controls, improvement actions, and Microsoft-managed actions.
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/12-regulations-page.png)
+[View Project](./Service-Trust-Portal-and-Trust-Center/10-data-protection-baseline.png)
+
 
 ### 7. Compliance Policies
 
@@ -89,6 +95,8 @@ I reviewed the Compliance Manager policy capabilities and opened the Compliance 
 Policies can be used to monitor important compliance-related events and configure alert frequency and severity.
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/14-compliance-policies.png)
+
 
 ### 8. Compliance Alerts
 
@@ -99,6 +107,8 @@ This area allows security and compliance teams to review events that could affec
 Because the environment was a newly created training tenant, no active alerts were expected.
 
 ### Lab Evidence
+[View Project](./Service-Trust-Portal-and-Trust-Center/15-default-alert-policy.png)
+
 
 ### Security and Compliance Relevance
 
