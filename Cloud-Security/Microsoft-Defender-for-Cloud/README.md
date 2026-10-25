@@ -46,7 +46,7 @@ Reviewed the Azure VM inventory and examined
 the security recommendations associated with
 the lab virtual machine.
 
-![VM Inventory](screenshots/02-vm-inventory.png)
+![VM Inventory](screenshots/02-Vm-inventory-pages.png)
 
 ### 3. Unhealthy Security Recommendations
 
@@ -54,21 +54,21 @@ Inspected an unhealthy recommendation to understand
 the affected resource, security implications,
 and suggested remediation steps.
 
-![Security Recommendation](screenshots/03-unhealthy-recommendation.png)
+![Security Recommendation](screenshots/03-Unhealty-recommendation.png)
 
 ### 4. Remediation Guidance
 
 Reviewed Microsoft-provided remediation guidance
 without applying changes to the assessed resource.
 
-![Remediation](screenshots/04-remediation-guidance.png)
+![Remediation](screenshots/04-Regulatory-Compliance.png)
 
 ### 5. Recommendations Dashboard
 
 Examined security recommendations and resource
 health information.
 
-![Recommendations](screenshots/05-recommendations-dashboard.png)
+![Recommendations](screenshots/Microsoft-Defender-For-Cloud-02.png)
 
 ### 6. Regulatory Compliance
 
