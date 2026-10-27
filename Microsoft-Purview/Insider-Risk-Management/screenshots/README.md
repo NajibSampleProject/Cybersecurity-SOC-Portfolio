@@ -169,7 +169,7 @@ Understanding how detection thresholds influence the assessment of potentially r
 
 ### Screenshot Evidence
 
-![Insider Risk Detection Thresholds](./08-thresholds.png)
+![Insider Risk Detection Thresholds](./09-policy-created.png)
 
 ---
 
