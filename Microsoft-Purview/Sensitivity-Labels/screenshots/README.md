@@ -174,7 +174,7 @@ This functionality is particularly relevant to protecting sensitive business, fi
 
 **Screenshot Evidence:**
 
-![Auto Labeling Policy Review](./09-policy-review)
+![Auto Labeling Policy Review](./09-policy-review.png)
 
 ---
 
