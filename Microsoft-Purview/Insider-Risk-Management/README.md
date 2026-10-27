@@ -71,11 +71,6 @@ For a detailed walkthrough with screenshots:
 - Risk-Based Monitoring
 - Security Governance
 
-## Lab Scope
-
-This was a guided training exercise.
-
-A custom insider risk policy was created, but the lab did not involve triggering an alert, conducting an insider threat investigation, or initiating manual activity scoring.
 
 ## Conclusion
 
