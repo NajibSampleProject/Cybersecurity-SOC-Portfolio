@@ -86,7 +86,7 @@ Understanding how detection periods affect the monitoring and assessment of pote
 
 ### Screenshot Evidence
 
-![Insider Risk Policy Timeframes](./04-policy-timeframes.png)
+![Insider Risk Policy Timeframes](./04-policy-timeframes.png.png)
 
 ---
 
