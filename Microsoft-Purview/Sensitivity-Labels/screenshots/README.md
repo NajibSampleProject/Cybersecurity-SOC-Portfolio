@@ -247,6 +247,6 @@ The screenshots provide supporting evidence of the configuration screens reviewe
 
 ## 6. Conclusion
 
-This lab provided practical exposure to Microsoft Purview Information Protection and helped me understand how sensitivity labels, access controls, publishing policies, and automated classification contribute to enterprise data security.
+I created this GitHub portfolio to demonstrate my practical cybersecurity skills and hands-on experience with Microsoft Purview Information Protection. Through this lab, I explored sensitivity labels, access controls, data classification, and security policies to demonstrate my understanding of protecting and managing sensitive organisational information.
 
-It forms part of my ongoing hands-on cybersecurity learning and Microsoft Security portfolio development.
+The documented activities and screenshots provide evidence of my technical knowledge and practical familiarity with Microsoft 365 security technologies, highlighting my capabilities in data protection, information governance, and enterprise security practices.
