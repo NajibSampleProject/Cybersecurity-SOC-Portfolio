@@ -39,7 +39,7 @@ Microsoft Purview provides centralised tools for managing information protection
 
 **Screenshot Evidence:**
 
-![Microsoft Purview Information Protection Overview](screen/01-overview.png)
+![Microsoft Purview Information Protection Overview](./01-overview.png)
 
 ---
 
@@ -59,7 +59,7 @@ Sensitivity labels enable organisations to classify information according to its
 
 **Screenshot Evidence:**
 
-![Highly Confidential Sensitivity Label](./screenshot/02-highly-confidential.png)
+![Highly Confidential Sensitivity Label](./02-highly-confidential.png)
 
 ---
 
@@ -126,7 +126,7 @@ Automatic labeling can reduce reliance on manual classification and improve cons
 
 **Screenshot Evidence:**
 
-![Additional Auto Labeling Settings](./05-auto-label-settings-additional.png)
+![Additional Auto Labeling Settings](./05-auto-label-settings)
 
 ---
 
@@ -174,7 +174,7 @@ This functionality is particularly relevant to protecting sensitive business, fi
 
 **Screenshot Evidence:**
 
-![Auto Labeling Policy Review](./07-policy-review.png)
+![Auto Labeling Policy Review](./09-policy-review)
 
 ---
 
@@ -195,7 +195,7 @@ Security administrators should review and test information protection policies b
 
 **Screenshot Evidence:**
 
-![Additional Policy Configuration Review](./08-policy-review-additional.png)
+![Additional Policy Configuration Review](./09-policy-review1.png)
 
 ---
 
