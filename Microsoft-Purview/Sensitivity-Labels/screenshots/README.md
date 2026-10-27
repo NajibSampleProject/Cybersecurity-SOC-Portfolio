@@ -107,7 +107,7 @@ This helps organisations apply consistent information protection controls.
 
 **Screenshot Evidence:**
 
-![Auto Labeling Configuration](./04-auto-label-settings.png)
+![Auto Labeling Configuration](./03-access-control.png)
 
 ---
 
@@ -126,7 +126,7 @@ Automatic labeling can reduce reliance on manual classification and improve cons
 
 **Screenshot Evidence:**
 
-![Additional Auto Labeling Settings](./05-auto-label-settings)
+![Additional Auto Labeling Settings](./05-auto-label-settings (2).png)
 
 ---
 
