@@ -46,7 +46,7 @@ Understanding how privacy controls can help balance security monitoring with emp
 
 ### Screenshot Evidence
 
-![Insider Risk Privacy Settings](./02-privacy-settings.png)
+![Insider Risk Privacy Settings](./02-privacy-settings.png.png)
 
 ---
 
