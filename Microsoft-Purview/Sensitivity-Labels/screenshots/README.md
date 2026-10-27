@@ -126,7 +126,7 @@ Automatic labeling can reduce reliance on manual classification and improve cons
 
 **Screenshot Evidence:**
 
-![Additional Auto Labeling Settings](./05-auto-label-settings (2).png)
+![Additional Auto Labeling Settings](./05-2-auto-label-settings.png)
 
 ---
 
