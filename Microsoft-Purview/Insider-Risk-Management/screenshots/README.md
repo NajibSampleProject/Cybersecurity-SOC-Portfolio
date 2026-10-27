@@ -229,11 +229,8 @@ Through this lab, I gained practical familiarity with:
 
 ## Lab Limitations
 
-This lab used a controlled Microsoft 365 training environment.
+This lab used a controlled Microsoft 365 environment for purpose of demonstration.
 
-The custom policy was created successfully as part of the guided exercise.
-
-The lab did not generate insider risk alerts, initiate manual activity scoring, or perform an actual insider threat investigation.
 
 ## Portfolio Purpose
 
